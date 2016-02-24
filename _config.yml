@@ -1,6 +1,6 @@
-name:          Pixel Union Code Guide
+name:          ShopPad Code Guide
 description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
-url:           http://pixelunion.github.io/code-guide/
+url:           http://shoppad.github.io/code-guide/
 
 markdown:      rdiscount
 permalink:     pretty
