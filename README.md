@@ -1,8 +1,8 @@
 # Code Guide
 
-Code Guide is a project for documenting standards for developing flexible, durable, and sustainable HTML and CSS. It comes from years of experience writing code on projects of all sizes. This is Pixel Union's fork of @mdo's version. We think he's really swell for putting this together.
+Code Guide is a project for documenting standards for developing flexible, durable, and sustainable HTML and CSS. It comes from years of experience writing code on projects of all sizes. This is a fork of Pixel Union's Code Guide, originally forked from @mdo's version. 
 
-**[Start reading ☞](http://pixelunion.github.io/code-guide)**
+**[Start reading ☞](http://shoppad.github.io/code-guide)**
 
 ---
 
@@ -30,6 +30,7 @@ Released under MIT by, and copyright 2014, @mdo.
 
 ### Thanks
 
-Forked from [Code Guide](http://mdo.github.io/code-guide/)
+@PixelUnion [Code Guide](http://pixelunion.github.io/code-guide/)
+@mdo Code Guide [Code Guide](http://mdo.github.io/code-guide/)
 
 Heavily inspired by [Idiomatic CSS](https://github.com/necolas/idiomatic-css) and the [GitHub Styleguide](http://github.com/styleguide).
